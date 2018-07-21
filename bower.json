@@ -11,7 +11,7 @@
     "polymer"
   ],
   "main": "date-range-facet.html",
-  "homepage": "https://github.com/DigElements/date-range-facet/",
+  "homepage": "https://github.com/usc-isi-digelements/date-range-facet/",
   "ignore": [
     "/.*",
     "/test/"
@@ -20,8 +20,8 @@
     "polymer": "Polymer/polymer#^2.0.2",
     "iron-collapse": "PolymerElements/iron-collapse#^2.0.0",
     "iron-flex-layout": "PolymerElements/iron-flex-layout#2.0.0",
-    "stylized-icon": "DigElements/stylized-icon#2.0.0",
-    "vaadin-date-picker-display": "DigElements/vaadin-date-picker-display#2.0.4"
+    "stylized-icon": "usc-isi-digelements/stylized-icon#2.0.0",
+    "vaadin-date-picker-display": "usc-isi-digelements/vaadin-date-picker-display#2.0.4"
   },
   "devDependencies": {
     "iron-component-page": "PolymerElements/iron-component-page#^2.0.0",
