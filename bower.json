@@ -1,27 +1,21 @@
 {
   "name": "date-range-facet",
-  "description": "A Polymer Element that displays date pickers to be used for a range filter.",
-  "version": "2.0.4",
-  "authors": [
-    "Next Century Corporation"
-  ],
+  "description":
+    "A Polymer Element that displays date pickers to be used for a range filter.",
+  "version": "2.0.5",
+  "authors": ["Next Century Corporation"],
   "license": "Apache-2.0",
-  "keywords": [
-    "web-component",
-    "polymer"
-  ],
+  "keywords": ["web-component", "polymer"],
   "main": "date-range-facet.html",
   "homepage": "https://github.com/usc-isi-digelements/date-range-facet/",
-  "ignore": [
-    "/.*",
-    "/test/"
-  ],
+  "ignore": ["/.*", "/test/"],
   "dependencies": {
     "polymer": "Polymer/polymer#^2.0.2",
     "iron-collapse": "PolymerElements/iron-collapse#^2.0.0",
-    "iron-flex-layout": "PolymerElements/iron-flex-layout#2.0.0",
-    "stylized-icon": "usc-isi-digelements/stylized-icon#2.0.0",
-    "vaadin-date-picker-display": "usc-isi-digelements/vaadin-date-picker-display#2.0.4"
+    "iron-flex-layout": "PolymerElements/iron-flex-layout#^2.0.0",
+    "stylized-icon": "usc-isi-digelements/stylized-icon#^2.0.1",
+    "vaadin-date-picker-display":
+      "usc-isi-digelements/vaadin-date-picker-display#^2.0.4"
   },
   "devDependencies": {
     "iron-component-page": "PolymerElements/iron-component-page#^2.0.0",
